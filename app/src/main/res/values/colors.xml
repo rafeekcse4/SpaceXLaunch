@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1e85b7</color>
+    <color name="colorPrimaryDark">#1b7aa8</color>
+    <color name="colorAccent">#157b8b</color>
+
+
+    <color name="brand_textcolor_left">#353535</color>
+    <color name="brand_screenbg">#f4f4f4</color>
+    <color name="brand_white">#FFFFFF</color>
+    <color name="brand_linkcolor">#0a3ee9</color>
+
+</resources>

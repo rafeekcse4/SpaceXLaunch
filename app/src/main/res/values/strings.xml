@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">FutureInSky</string>
+    <string name="welcome_message">Welcome to FutureInSky</string>
+    <string name="brand_loader_msg">Please wait! This may take a moment.</string>
+    <string name="title_activity_launch_detail">LaunchDetailActivity</string>
+
+
+    <string name="title_flight_number">Flight Number</string>
+    <string name="title_mission_name">Mission Name</string>
+    <string name="title_launch_date">Launch Date</string>
+    <string name="title_Customer_name">Customer Info</string>
+    <string name="title_rocket_Name">Rocket Name</string>
+    <string name="title_launch_status">Launch Status</string>
+    <string name="title_details">Description</string>
+    <string name="title_launch_site_id">Launch Site ID</string>
+    <string name="title_launch_site_name">Launch Site Name</string>
+    <string name="title_launch_site_logs">Launch Site Logs</string>
+
+    <string name="title_Relatedarticle">Releate Article</string>
+    <string name="title_core">Core Details</string>
+    <string name="title_payload">Payloads</string>
+    <string name="title_reused_status">Reuse Status</string>
+    <string name="menu_option1">Profile</string>
+    <string name="menu_option2">Logout</string>
+    <string name="profile_title">User Name</string>
+    <string name="login_error_message_username">Enter the UserName</string>
+    <string name="login_error_message_password">Enter the Password</string>
+    <string name="login_button_text">Login</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>

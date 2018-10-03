@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="brand_padding_layout">16dp</dimen>
+    <dimen name="brand_textsize_title">15sp</dimen>
+    <dimen name="brand_textsize_message">13sp</dimen>
+    <dimen name="brand_details_layout_padding">10dp</dimen>
+
+
+    <dimen name="brand_textsize_left">15sp</dimen>
+
+</resources>
